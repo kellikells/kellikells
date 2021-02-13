@@ -2,11 +2,11 @@
 
 😄 I am a web developer who enjoys exploring new technologies and implementing strategies to write clean, concise code
 
-I am currently working on:
-- Implementing Next.js in addition with Tailwind CSS for my personal portfolio
+How to reach me: 
+📫 💬 kelli@uyeda.me
+⚡- https://uyeda.me
 
-📫 How to reach me: 
-  - 💬 kellikells@gmail.com
+  
 
 
 <!--- - 🔭 I’m currently working on ...
