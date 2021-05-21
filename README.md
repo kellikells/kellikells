@@ -11,8 +11,8 @@
 
 #### How to reach me: 
 
-##📫 💬 kelli@uyeda.me
-##⚡ 💬- https://uyeda.me
+📫 💬 kelli@uyeda.me
+⚡ 💬- https://uyeda.me
 
   
 
